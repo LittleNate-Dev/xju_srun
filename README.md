@@ -12,4 +12,5 @@ https://github.com/coffeehat/BIT-srun-login-script<br />
 
 仅作学习用途，请勿滥用。
 
-另一个版本的登录脚本请移步https://github.com/LittleNate-Dev/xju_net，这个版本更好用<br />
+另一个版本的登录脚本请移步https://github.com/LittleNate-Dev/xju_net<br />
+这个版本更好用<br />
